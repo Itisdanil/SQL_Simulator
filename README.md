@@ -1,1 +1,1 @@
-# SQL_Simulator
+Simulator SQL from Karpov Coursers
